@@ -1,6 +1,6 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img width="900" height="900" src="https://github.com/user-attachments/assets/7315d5fb-2423-4359-afab-922820587001" />
+  <img width="500" height="500" src="https://github.com/user-attachments/assets/7315d5fb-2423-4359-afab-922820587001" />
 </p>
 
 <h1 align="center"> Calx0r | Offensive Security</h1>
