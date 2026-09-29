@@ -31,6 +31,7 @@ My background spans penetration testing, application security, and enterprise in
 I break things to understand them, then use what I learn to make them harder to break.
 
 Methodical. Adaptable. Calm at the console.
+
 ---
 
 ## Cyber Projects
