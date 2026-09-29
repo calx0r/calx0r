@@ -68,9 +68,12 @@ I break things to understand them, then use what I learn to make them harder to 
 
 ### Certifications
 
-<!-- Offensive Security -->
+<!-- Zero-Point Security -->
 
 [![CRTO](https://img.shields.io/badge/Zero--Point%20Security-CRTO-B80000?logoColor=white)](https://certs.zeropointsecurity.co.uk/48abaa7c-9464-4000-b981-6884b9062aef)
+
+<!-- Altered Security -->
+
 [![CRTP](https://img.shields.io/badge/Altered%20Security-CRTP-8B0000?logoColor=white)](https://www.credential.net/ef20790d-8698-41bb-8b7b-2a150bf9884e#acc.eWaQ5qC8)
 
 <!-- GIAC -->
@@ -79,7 +82,6 @@ I break things to understand them, then use what I learn to make them harder to 
 [![GPEN](https://img.shields.io/badge/GIAC-GPEN-red?logoColor=white)](https://www.credly.com/badges/c16e7031-bea7-44fd-9d99-1ae781e02590/linked_in_profile)
 [![GWAPT](https://img.shields.io/badge/GIAC-GWAPT-red?logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile)
 [![GCIH](https://img.shields.io/badge/GIAC-GCIH-red?logoColor=white)](https://www.credly.com/badges/99c0cc11-b760-43ed-9ee7-d38a2a143feb/linked_in_profile)
-
 [![GSEC](https://img.shields.io/badge/GIAC-GSEC-blue?logoColor=white)](https://www.credly.com/badges/d78960d3-3aae-4933-8893-4bf105b48923/linked_in_profile)
 [![GFACT](https://img.shields.io/badge/GIAC-GFACT-purple?logoColor=white)](https://www.credly.com/badges/d473aff5-27e2-45d7-abf4-f4e0a2bb5790/linked_in_profile)
 [![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board-FFD700?logoColor=white)](https://www.credly.com/badges/88da592c-90f0-483d-9e09-93462a06a7fe/linked_in_profile)
