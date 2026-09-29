@@ -24,20 +24,29 @@
 <!-- ====== PROFESSIONAL INFO ====== -->
 ## #whoami
 
-I’m Calx0r, a Network Administrator who approaches infrastructure with an offensive security mindset. I focus on secure configuration, segmentation, and reliability, backed by hands-on penetration testing and vulnerability analysis experience.
+I'm **Calx0r**, an offensive security professional focused on Active Directory, web application security, and adversary simulation.
 
-I study how networks and systems break so I can build them stronger.
+My background spans penetration testing, application security, and enterprise infrastructure, giving me experience with both how environments are attacked and how they're built and defended.
+
+I break things to understand them, then use what I learn to make them harder to break.
 
 Methodical. Adaptable. Calm at the console.
-
 ---
 
 ## Cyber Projects
-* <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
+
+### Open-Source Security Research
+* <a href="https://github.com/warpedatom/noisehound">NoiseHound</a> - Contributed testing and validation to a detection-aware BloodHound attack-path analysis tool.
+* <a href="https://github.com/warpedatom/OffsetInspect">OffsetInspect</a> - Contributed testing, validation, and documentation for offensive security detection research.
+
+### Labs & Research
+* <a href="https://github.com/nguyenbrandonm/Active-Directory-Attack-Lab">Active Directory Attack Lab</a> - Active Directory exploitation, attack paths, and privilege escalation.
+* <a href="https://github.com/nguyenbrandonm/AppSec-Attack-Lab/blob/main/README.md">AppSec Attack Lab</a> - Web application security testing and exploitation.
+* <a href="https://github.com/nguyenbrandonm/Vulnerable-Webserver/blob/main/README.md">JumpBox</a> - Vulnerable web application built for offensive security practice.
+
+### Technical Writing
+* <a href="https://github.com/nguyenbrandonm/Blog">Educational Blog</a>
 * <a href="https://github.com/nguyenbrandonm/CTF-Walkthroughs">CTF Write-ups</a>
-* <a href="https://github.com/nguyenbrandonm/Vulnerable-Webserver/blob/main/README.md">"JumpBox" - A Vulnerable Web Application</a>
-* <a href="https://github.com/nguyenbrandonm/Active-Directory-Attack-Lab">Active Directory Attack Lab</a>
-* <a href="https://github.com/nguyenbrandonm/AppSec-Attack-Lab/blob/main/README.md">AppSec Attack Lab</a>
 
 # Credentials
 ## Certifications
